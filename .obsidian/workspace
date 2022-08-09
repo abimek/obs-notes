@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "7a81ce9b0eacd466",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a70ae60048ebfda",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linux/Commands.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53bc2b53c8d5f715",
+    "type": "split",
+    "children": [
+      {
+        "id": "29b9cfb941c15eb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6ef0639eb915921",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5315b02632b80c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#test",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4469582e2854c032",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c6060e62179d386",
+    "type": "split",
+    "children": [
+      {
+        "id": "df9d2a368825a559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83864097d6da8e25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01770a5a826d419d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/Commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad0cbdd23d9aeea0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42331d866a973eec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Commands.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2a70ae60048ebfda",
+  "lastOpenFiles": [
+    "Pen Testing/Radare2.md",
+    "Linux/Commands.md",
+    "Tags.md",
+    "Templates/Generic Template.md",
+    "Pen Testing/Untitled 1.md",
+    "README.md"
+  ]
+}
