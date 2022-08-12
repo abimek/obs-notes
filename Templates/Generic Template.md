@@ -2,8 +2,10 @@
 #tags
 Date: {{date}}
 
-## Description
-Content Here
+Description Here
+
+**External Links:**
+
 
 ## Topic Header
 Content Here

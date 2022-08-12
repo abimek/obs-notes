@@ -2,6 +2,8 @@
 
 ## Tags
 List of tags used 
+### minecraft
+> minecraft related
 ### commands
 > command line related
 ### linux
