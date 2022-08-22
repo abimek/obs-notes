@@ -13,7 +13,7 @@ Time: 6:30pm
  * Deleteing Contacts without Emails
 
 ## Meeting Notes
-Content Here
+
 
 ## Goals
 Content Here

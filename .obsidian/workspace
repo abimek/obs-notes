@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "right": {
     "id": "8c6060e62179d386",
@@ -130,15 +130,15 @@
   },
   "active": "2a70ae60048ebfda",
   "lastOpenFiles": [
-    "Minecraft/Untitled.md",
     "DandiLionMeadows/Meetings/08-21-2022 Categorizing Keela for Marketing.md",
+    "Minecraft/Cylex/Cylex-Plan.md",
+    "Minecraft/Untitled.md",
     "Templates/Meeting Tempalte.md",
     "Templates/generic template.md",
     "DandiLionMeadows/Keela.md",
     "Minecraft/Json-UI/Chests With Invisible Slots.md",
     "Minecraft/Json-UI/Dynamic Forms.md",
     "Pen Testing/radare2.md",
-    "Minecraft/json-ui.md",
-    "Tags.md"
+    "Minecraft/json-ui.md"
   ]
 }
