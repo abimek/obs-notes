@@ -2,7 +2,7 @@
 #tags
 Date: 08-21-2022
 
-A plan for CylexSky and a list of all features
+A plan for CylexSky and a list of all features. The ui's for cylex will use [[Chests With Invisible Slots]] and  [[Dynamic Forms]] to make them function properly and make them look unique.
 
 **External Links:**
 
