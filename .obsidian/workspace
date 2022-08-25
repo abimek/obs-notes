@@ -7,12 +7,8 @@
         "id": "2a70ae60048ebfda",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Minecraft/Cylex/Cylex-Plan.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 307
   },
   "right": {
     "id": "8c6060e62179d386",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft/Cylex/Cylex-Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft/Cylex/Cylex-Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Minecraft/Cylex/Cylex-Plan.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2a70ae60048ebfda",
+  "active": "a6ef0639eb915921",
   "lastOpenFiles": [
-    "DandiLionMeadows/Meetings/08-21-2022 Categorizing Keela for Marketing.md",
+    "School/AP Physics-C/First Day Notes.md",
     "Minecraft/Cylex/Cylex-Plan.md",
+    "enchanting_table_gui 1.png",
+    "enchanting_table_gui.png",
+    "School/1_Homework/Homework 08-25-2022.md",
+    "DandiLionMeadows/Meetings/08-21-2022 Categorizing Keela for Marketing.md",
     "Minecraft/Untitled.md",
     "Templates/Meeting Tempalte.md",
     "Templates/generic template.md",
-    "DandiLionMeadows/Keela.md",
-    "Minecraft/Json-UI/Chests With Invisible Slots.md",
-    "Minecraft/Json-UI/Dynamic Forms.md",
-    "Pen Testing/radare2.md",
-    "Minecraft/json-ui.md"
+    "DandiLionMeadows/Keela.md"
   ]
 }
