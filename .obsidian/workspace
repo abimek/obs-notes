@@ -7,11 +7,9 @@
         "id": "2a70ae60048ebfda",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Minecraft/Cylex/Cylex-Plan.md",
-            "mode": "source",
-            "source": false
+            "file": "Minecraft/Cylex/images/Pasted image 20220811204114.png"
           }
         }
       }
@@ -61,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 347.5
   },
   "right": {
     "id": "8c6060e62179d386",
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft/Cylex/Cylex-Plan.md",
+                "file": "Minecraft/Cylex/images/Pasted image 20220811204114.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft/Cylex/Cylex-Plan.md",
+                "file": "Minecraft/Cylex/images/Pasted image 20220811204114.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft/Cylex/Cylex-Plan.md"
+                "file": "Minecraft/Cylex/images/Pasted image 20220811204114.png"
               }
             }
           }
@@ -130,15 +128,15 @@
   },
   "active": "2a70ae60048ebfda",
   "lastOpenFiles": [
-    "DandiLionMeadows/Meetings/08-21-2022 Categorizing Keela for Marketing.md",
+    "Minecraft/Cylex/images/Pasted image 20220822142828.png",
+    "life/Time Tracker.md",
+    "KashmirWorldFoundation/Meeting Notes/Dec 2.md",
+    "KashmirWorldFoundation/Research Paper/Writing a Paper.md",
+    "DandeLionMeadows/Meetings/08-21-2022 Categorizing Keela for Marketing.md",
+    "Tags.md",
     "Minecraft/Cylex/Cylex-Plan.md",
-    "Minecraft/Untitled.md",
-    "Templates/Meeting Tempalte.md",
-    "Templates/generic template.md",
-    "DandiLionMeadows/Keela.md",
-    "Minecraft/Json-UI/Chests With Invisible Slots.md",
-    "Minecraft/Json-UI/Dynamic Forms.md",
-    "Pen Testing/radare2.md",
-    "Minecraft/json-ui.md"
+    "Minecraft/Cylex/images/Pasted image 20220822142846.png",
+    "Minecraft/Cylex/images/enchanting_table_gui 1.png",
+    "Minecraft/Cylex/images/enchanting_table_gui.png"
   ]
 }
