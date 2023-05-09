@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "7a81ce9b0eacd466",
+    "type": "split",
+    "children": [
+      {
+        "id": "d24124d2182f8cb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b2f77e282ae33fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/generic template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e1d590ec3abbc15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "127e53bb30553964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minecraft/Json-UI/Crafters Auctions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e9d43fb675f7465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KashmirWorldFoundation/Flutter vs Android Studios vs React Native.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "776c97b4500993ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
+            "id": "2031d6ee36f391aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotics/Robotics Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53bc2b53c8d5f715",
+    "type": "split",
+    "children": [
+      {
+        "id": "29b9cfb941c15eb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6ef0639eb915921",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5315b02632b80c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#physics",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4469582e2854c032",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "8c6060e62179d386",
+    "type": "split",
+    "children": [
+      {
+        "id": "df9d2a368825a559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83864097d6da8e25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01770a5a826d419d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad0cbdd23d9aeea0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42331d866a973eec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9e1d590ec3abbc15",
+  "lastOpenFiles": [
+    "YRA/General YRA Document.md",
+    "Pasted image 20220825183822.png.md",
+    "School/AP Physics-C/Vectors.md",
+    "Templates/generic template.md",
+    "Templates/Meeting Tempalte.md",
+    "General.md",
+    "KashmirWorldFoundation/Research Paper/Writing a Paper.md",
+    "YRA",
+    "KashmirWorldFoundation/Meeting Notes/Dec 2.md",
+    "Excalidraw/Vectors 2022-08-25 18.38.45.excalidraw.md",
+    "Excalidraw/Vectors 2022-08-25 18.21.17.excalidraw.md",
+    "Excalidraw/Stationary Ball 17.11.51.excalidraw.md",
+    "Excalidraw/Motion Maps 2022-08-25 17.32.42.excalidraw.md",
+    "Excalidraw/Motion Maps 2022-08-25 17.31.33.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-25 17.10.52.excalidraw.md",
+    "Excalidraw/dialoger 2022-09-04 15.42.32.excalidraw.md",
+    "School/AP Physics-C/Motion Maps.md",
+    "FRC.md",
+    "Pasted image 20220903221242.png",
+    "glyph_E0.png",
+    "Pasted image 20220825183822.png",
+    "Pasted image 20220903221502.png",
+    "Tags.md",
+    "Pasted Image 20220918152839_168.png",
+    "Pen Testing/radare2.md",
+    "Minecraft/Cylex/Cylex-Plan.md",
+    "Robotics/Robotics Notes.md",
+    "Minecraft/Cylex/core/punishments.md",
+    "Linux/Commands.md",
+    "Excalidraw/Drawing 2023-03-24 21.48.36.excalidraw.md",
+    "Minecraft/Json-UI/Dynamic Forms.md",
+    "Minecraft/Cylex/images/Pasted image 20220822142828.png",
+    "Minecraft/Json-UI/Crafters Auctions.md",
+    "Minecraft/Cylex/images/Pasted image 20220822143004.png",
+    "Minecraft/Cylex/images/Pasted image 20220822142846.png",
+    "Minecraft/Cylex/images/Pasted image 20220811204114.png"
+  ]
+}

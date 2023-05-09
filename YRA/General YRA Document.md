@@ -1,11 +1,11 @@
-# Keela
+# {{title}}
 #tags
-Date: 08-21-2022
+Date: {{date}}
 
 Description Here
 
 **External Links:**
 
 
-## Topic Header
+## Admin Link
 Content Here
