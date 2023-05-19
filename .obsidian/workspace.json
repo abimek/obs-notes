@@ -4,58 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d24124d2182f8cb8",
+        "id": "0021854d7e355215",
         "type": "tabs",
         "children": [
           {
-            "id": "2b37dc8dca8bae91",
+            "id": "6ed3faa1ad1a720c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Cs/React/React Query.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "127e53bb30553964",
+            "id": "42062524ae4bc7ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft/Json-UI/Crafters Auctions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e9d43fb675f7465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KashmirWorldFoundation/Flutter vs Android Studios vs React Native.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2031d6ee36f391aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pen Testing/Radare2.md",
+                "file": "General Cs/React/Zustland.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Cs/React/React Query.md",
+                "file": "General Cs/React/Zustland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Cs/React/React Query.md",
+                "file": "General Cs/React/Zustland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Cs/React/React Query.md"
+                "file": "General Cs/React/Zustland.md"
               }
             }
           }
@@ -191,20 +164,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b37dc8dca8bae91",
+  "active": "42062524ae4bc7ec",
   "lastOpenFiles": [
-    "General Cs/React/React Native State Management.md",
-    "General Cs/React/React Query.md",
     "Templates/Generic Template.md",
+    "General Cs/React/Zustland.md",
+    "General Cs/React/React Query.md",
+    "General Cs/React/Zustland.md",
     "Templates/Meeting Tempalte.md",
+    "Pen Testing/Radare2.md",
+    "Robotics/Robotics Notes.md",
+    "General Cs/React/React Location.md",
+    "General Cs/React/React Native State Management.md",
     "General Cs/React",
     "Minecraft/Cylex/dialoger.md",
     "Minecraft/Json-UI/Chests With Invisible Slots.md",
     "Minecraft/Json-UI/Dynamic Forms.md",
-    "Pen Testing/Radare2.md",
     "Minecraft/Json-UI/Crafters Auctions.md",
     "KashmirWorldFoundation/Flutter vs Android Studios vs React Native.md",
-    "Robotics/Robotics Notes.md",
     "General.md",
     "Excalidraw/Drawing 2023-05-18 18.18.11.excalidraw.md",
     "Excalidraw/Drawing 2023-05-18 18.18.05.excalidraw.md",
@@ -219,9 +195,6 @@
     "Excalidraw/Vectors 2022-08-25 18.38.45.excalidraw.md",
     "Excalidraw/Vectors 2022-08-25 18.21.17.excalidraw.md",
     "Excalidraw/Stationary Ball 17.11.51.excalidraw.md",
-    "Excalidraw/Motion Maps 2022-08-25 17.32.42.excalidraw.md",
-    "Excalidraw/Motion Maps 2022-08-25 17.31.33.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-25 17.10.52.excalidraw.md",
     "Pasted image 20220903221242.png",
     "glyph_E0.png",
     "Pasted image 20220825183822.png",

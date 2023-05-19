@@ -9,12 +9,14 @@ Send data to server and retrieve data from a server. This is a context that can 
 ## queryClient
 This is the main object, it for one retrieves data and secondly caches the data for EFFIENCY (Noice). You do thise by calling fetch(Method) on it, it will then check you're query if it's cached return, otherwise it will go cache and etc. 
 
+Query client can also be pasesd into queryClientProivder so you can use those methods throughout you're entire app. 
+
 **Example**
 ```javascript
 const queryClient = new QueryClient();
 
 return (
-	<QueryClientProvider>
+	<QueryClientProvider client={queryClient}>
 	</QueryClientProvider>
 );
 ```
