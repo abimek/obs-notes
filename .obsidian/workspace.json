@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b2f77e282ae33fd",
+            "id": "2b37dc8dca8bae91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/generic template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e1d590ec3abbc15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General.md",
+                "file": "General Cs/React/React Query.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,29 +44,18 @@
             }
           },
           {
-            "id": "776c97b4500993ca",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
             "id": "2031d6ee36f391aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics/Robotics Notes.md",
+                "file": "Pen Testing/Radare2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#physics",
+                "query": "tag:#tags",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,6 +98,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6bf43ac8a3df91c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -144,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General.md",
+                "file": "General Cs/React/React Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General.md",
+                "file": "General Cs/React/React Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General.md"
+                "file": "General Cs/React/React Query.md"
               }
             }
           }
@@ -192,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,14 +191,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e1d590ec3abbc15",
+  "active": "2b37dc8dca8bae91",
   "lastOpenFiles": [
+    "General Cs/React/React Native State Management.md",
+    "General Cs/React/React Query.md",
+    "Templates/Generic Template.md",
+    "Templates/Meeting Tempalte.md",
+    "General Cs/React",
+    "Minecraft/Cylex/dialoger.md",
+    "Minecraft/Json-UI/Chests With Invisible Slots.md",
+    "Minecraft/Json-UI/Dynamic Forms.md",
+    "Pen Testing/Radare2.md",
+    "Minecraft/Json-UI/Crafters Auctions.md",
+    "KashmirWorldFoundation/Flutter vs Android Studios vs React Native.md",
+    "Robotics/Robotics Notes.md",
+    "General.md",
+    "Excalidraw/Drawing 2023-05-18 18.18.11.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-18 18.18.05.excalidraw.md",
     "YRA/General YRA Document.md",
+    "General Cs",
     "Pasted image 20220825183822.png.md",
     "School/AP Physics-C/Vectors.md",
     "Templates/generic template.md",
-    "Templates/Meeting Tempalte.md",
-    "General.md",
     "KashmirWorldFoundation/Research Paper/Writing a Paper.md",
     "YRA",
     "KashmirWorldFoundation/Meeting Notes/Dec 2.md",
@@ -222,24 +222,12 @@
     "Excalidraw/Motion Maps 2022-08-25 17.32.42.excalidraw.md",
     "Excalidraw/Motion Maps 2022-08-25 17.31.33.excalidraw.md",
     "Excalidraw/Drawing 2022-08-25 17.10.52.excalidraw.md",
-    "Excalidraw/dialoger 2022-09-04 15.42.32.excalidraw.md",
-    "School/AP Physics-C/Motion Maps.md",
-    "FRC.md",
     "Pasted image 20220903221242.png",
     "glyph_E0.png",
     "Pasted image 20220825183822.png",
     "Pasted image 20220903221502.png",
-    "Tags.md",
     "Pasted Image 20220918152839_168.png",
-    "Pen Testing/radare2.md",
-    "Minecraft/Cylex/Cylex-Plan.md",
-    "Robotics/Robotics Notes.md",
-    "Minecraft/Cylex/core/punishments.md",
-    "Linux/Commands.md",
-    "Excalidraw/Drawing 2023-03-24 21.48.36.excalidraw.md",
-    "Minecraft/Json-UI/Dynamic Forms.md",
     "Minecraft/Cylex/images/Pasted image 20220822142828.png",
-    "Minecraft/Json-UI/Crafters Auctions.md",
     "Minecraft/Cylex/images/Pasted image 20220822143004.png",
     "Minecraft/Cylex/images/Pasted image 20220822142846.png",
     "Minecraft/Cylex/images/Pasted image 20220811204114.png"
